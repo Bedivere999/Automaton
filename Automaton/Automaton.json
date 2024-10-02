@@ -1,15 +1,20 @@
-{
-    "Author": "croizat",
-    "Name": "Automaton",
-    "Punchline": "Yet another tweaks collection plugin.",
-    "Description": "",
-    "InternalName": "Automaton",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 10,
-    "IconUrl": "https://i.imgur.com/AVSzkMB.png",
-    "RepoUrl": "https://github.com/Jaksuhn/Automaton",
-    "Tags": [
-        "automation",
-        "plugin"
-    ]
-}
+[
+    {
+        "Author": "Bedivere999",
+        "Name": "Automaton",
+        "Punchline": "Extra illegal",
+        "Description": "Collection of tweaks that either do not fit in the main plugin or are being tested here.",
+        "Tags": ["automation", "plugin"],
+        "InternalName": "Automaton",
+        "RepoUrl": "https://github.com/Bedivere999/Automaton",
+        "DownloadCount": 70680,
+        "LastUpdate": 1727390892312,
+        "DownloadLinkInstall": "https://puni.sh/api/plugins/download/34/Automaton/versions/latest.zip",
+        "DownloadLinkUpdate": "https://puni.sh/api/plugins/download/34/Automaton/versions/latest.zip",
+        "AssemblyVersion": "1.0.0",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 10,
+        "Changelog": "",
+        "IconUrl": "https://s3.puni.sh/media/plugin/34/icon-2485dwrdfjem.png"
+    }
+]
